@@ -6,7 +6,7 @@ Hi there, I'm Simone 👋
 I'm passionate about AI, 3D Printing, CAD Design, and Development on Arduino, Raspberry Pi, and NodeMCU!
 </h2> 
 
-I love exploring the world of advanced Python programming and film photography.
+I love exploring the world of coding.
 
 ### 🚀 About Me
 
